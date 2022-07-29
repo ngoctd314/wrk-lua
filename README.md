@@ -1,5 +1,9 @@
 # WRK benchmark with lua script
 
+## Deps
+
+https://github.com/giltene/wrk2/wiki/Installing-wrk2-on-Linux
+
 ## How to setup
 
 Update endpoint.txt for your test
