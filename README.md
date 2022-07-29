@@ -1,5 +1,9 @@
 # WRK benchmark with lua script
 
+## How to setup
+
+Update endpoint.txt for your test
+
 ## How to run
 
 ```sh
